@@ -15,11 +15,11 @@
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/maakura/MK-Image-Converter?style=for-the-badge&color=orange)
 
-![GitHub](https://img.shields.io/github/license/maakura/MK-Image-Converter?style=for-the-badge&color=green)
-
 ---
 ## ライセンス / License
 このプロジェクトは **MIT License** のもとで公開されています。
 詳細は [LICENSE](./LICENSE) ファイルをご覧ください。
+
+![GitHub](https://img.shields.io/github/license/maakura/MK-Image-Converter?style=for-the-badge&color=green)
 
 Copyright (c) 2025 maakura
