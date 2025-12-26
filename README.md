@@ -11,6 +11,12 @@
 ## 🚀 ダウンロード
 右側の [Releases] ページから最新のインストーラーをダウンロードしてください。
 
+![GitHub All Releases](https://img.shields.io/github/downloads/maakura/MK-Image-Converter/total?style=for-the-badge&color=blue)
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/maakura/MK-Image-Converter?style=for-the-badge&color=orange)
+
+![GitHub](https://img.shields.io/github/license/maakura/MK-Image-Converter?style=for-the-badge&color=green)
+
 ---
 ## ライセンス / License
 このプロジェクトは **MIT License** のもとで公開されています。
