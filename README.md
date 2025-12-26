@@ -12,4 +12,8 @@
 右側の [Releases] ページから最新のインストーラーをダウンロードしてください。
 
 ---
-© 2025 maaku. All rights reserved.
+## ライセンス / License
+このプロジェクトは **MIT License** のもとで公開されています。
+詳細は [LICENSE](./LICENSE) ファイルをご覧ください。
+
+Copyright (c) 2025 maakura
