@@ -22,6 +22,9 @@ This software is a tool for batch converting and processing multiple images.
 本ソフトウェアを使用したことによって生じたいかなる損害についても、作者は一切の責任を負いません。
 The author shall not be held responsible for any damages resulting from the use of this software.
 
-## 著作権・ライセンス / Copyright
-© 2025 maaku. All rights reserved.
-無断転載・再配布・改変は禁止します。
+## ライセンス / License
+このプロジェクトは **MIT License** のもとで公開されています。
+詳細は [LICENSE](./LICENSE) ファイルをご覧ください。
+
+Copyright (c) 2025 maakura
+
